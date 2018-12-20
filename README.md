@@ -14,10 +14,10 @@ Search anime through image
 [![Video](https://img.youtube.com/vi/pFdABd-64eg/0.jpg)](https://www.youtube.com/watch?v=pFdABd-64eg)
 
 # Alternative Download
-[MEGA](https://mega.nz/#!qBsAyCIZ!QyMPBGS_dxrQSthcuYZo0qk8UIZZi_G-6Yy8bWQU7DA)
+[MEGA](https://mega.nz/#!qBsAyCIZ!QyMPBGS_dxrQSthcuYZo0qk8UIZZi_G-6Yy8bWQU7DA) or [Mediafire](https://www.mediafire.com/file/x17u6d5ek374845/WAIT.exe/file)
 
 # Trusted 100%
-[VirusTotal](https://www.virustotal.com/#/file/48dbaf0aa361fb405e951d6c81d15b132711a3eef40b1c21aa1f272cf519d609/detection)
+[VirusTotal](https://www.virustotal.com/#/file/48dbaf0aa361fb405e951d6c81d15b132711a3eef40b1c21aa1f272cf519d609/detection)<br>[Metadefender](https://metadefender.opswat.com/results#!/file/bzE4MTIyMEhKV3hfQUhFRmdFcmt6ZU9SUzR0bFY/regular/overview)
 
 # Privacy Policy
 Please note that, this program "WAIT" was created to make it easier for you to search anime through image.
